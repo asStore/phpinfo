@@ -1,0 +1,12 @@
+{
+  "name": "phpinfo",
+  "main": "main.js",
+  "icon": "rocket",
+  "description": "获取PHPINFO信息",
+  "author": {
+    "name": "ANT",
+    "email": "xxx"
+  },
+  "category": "信息获取",
+  "scripts": ["php"]
+}
